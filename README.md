@@ -1,3 +1,5 @@
+# Project Title:
+Room Tariff Prediction
 # Description:
 Hotel room prices of different places increase every year, so there is a
 need for a system to predict the prices in the future. This prediction can
