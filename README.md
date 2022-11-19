@@ -6,7 +6,7 @@ need for a system to predict the prices in the future. This prediction can
 help the owner determine the booking price of a hotel room and can help
 the customer to book a room.
 To predict rent (per day) I use regression models. 
-# dataset:
+# Dataset:
 In the dataset , 300 data from different websites of Bangladeshi Hotels were taken. Rent(Per Day) was predicted in BDT based
 on the other features.
 # Models:
